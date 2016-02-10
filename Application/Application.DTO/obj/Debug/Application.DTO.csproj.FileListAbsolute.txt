@@ -1,0 +1,4 @@
+C:\Dev\projects\Supplementary Projects\ContactManager\Application\Application.DTO\bin\Debug\Application.DTO.dll
+C:\Dev\projects\Supplementary Projects\ContactManager\Application\Application.DTO\bin\Debug\Application.DTO.pdb
+C:\Dev\projects\Supplementary Projects\ContactManager\Application\Application.DTO\obj\Debug\Application.DTO.dll
+C:\Dev\projects\Supplementary Projects\ContactManager\Application\Application.DTO\obj\Debug\Application.DTO.pdb

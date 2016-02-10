@@ -1,0 +1,9 @@
+C:\Dev\projects\Supplementary Projects\ContactManager\Application\Application.Core\obj\Debug\Application.Core.csprojResolveAssemblyReference.cache
+C:\Dev\projects\Supplementary Projects\ContactManager\Application\Application.Core\obj\Debug\Application.Core.Resources.Messages.resources
+C:\Dev\projects\Supplementary Projects\ContactManager\Application\Application.Core\obj\Debug\Application.Core.csproj.GenerateResource.Cache
+C:\Dev\projects\Supplementary Projects\ContactManager\Application\Application.Core\bin\Debug\Application.Core.dll
+C:\Dev\projects\Supplementary Projects\ContactManager\Application\Application.Core\bin\Debug\Application.Core.pdb
+C:\Dev\projects\Supplementary Projects\ContactManager\Application\Application.Core\bin\Debug\Application.Common.dll
+C:\Dev\projects\Supplementary Projects\ContactManager\Application\Application.Core\bin\Debug\Application.Common.pdb
+C:\Dev\projects\Supplementary Projects\ContactManager\Application\Application.Core\obj\Debug\Application.Core.dll
+C:\Dev\projects\Supplementary Projects\ContactManager\Application\Application.Core\obj\Debug\Application.Core.pdb

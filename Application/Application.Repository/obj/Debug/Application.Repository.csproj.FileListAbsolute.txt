@@ -1,0 +1,11 @@
+C:\Dev\projects\Supplementary Projects\ContactManager\Application\Application.Repository\obj\Debug\Application.Repository.csprojResolveAssemblyReference.cache
+C:\Dev\projects\Supplementary Projects\ContactManager\Application\Application.Repository\bin\Debug\Application.Repository.dll
+C:\Dev\projects\Supplementary Projects\ContactManager\Application\Application.Repository\bin\Debug\Application.Repository.pdb
+C:\Dev\projects\Supplementary Projects\ContactManager\Application\Application.Repository\bin\Debug\Application.Common.dll
+C:\Dev\projects\Supplementary Projects\ContactManager\Application\Application.Repository\bin\Debug\Application.Core.dll
+C:\Dev\projects\Supplementary Projects\ContactManager\Application\Application.Repository\bin\Debug\Application.DAL.dll
+C:\Dev\projects\Supplementary Projects\ContactManager\Application\Application.Repository\bin\Debug\Application.Common.pdb
+C:\Dev\projects\Supplementary Projects\ContactManager\Application\Application.Repository\bin\Debug\Application.Core.pdb
+C:\Dev\projects\Supplementary Projects\ContactManager\Application\Application.Repository\bin\Debug\Application.DAL.pdb
+C:\Dev\projects\Supplementary Projects\ContactManager\Application\Application.Repository\obj\Debug\Application.Repository.dll
+C:\Dev\projects\Supplementary Projects\ContactManager\Application\Application.Repository\obj\Debug\Application.Repository.pdb
